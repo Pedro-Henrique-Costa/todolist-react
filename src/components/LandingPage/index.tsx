@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const LandingPage = () => {
     return (
 
-        <Link to={'/'} className={styles.link}>
+        <Link to={'/app'} className={styles.link}>
             <main className={styles.main_container}>
                 <section className={styles.section_container}>
 
