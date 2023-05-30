@@ -14,3 +14,4 @@ Projeto com o objetivo de implementar conceitos de react em prática.
 - Axios: https://github.com/axios/axios
 - Json Server: https://github.com/typicode/json-server
 - uuid: https://github.com/uuidjs/uuid
+- vite: https://vitejs.dev/
