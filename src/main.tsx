@@ -10,11 +10,11 @@ import LandingPage from './components/LandingPage/index.tsx'
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App />
+    element: <LandingPage/>
   },
   {
-    path: "/lp",
-    element: <LandingPage/>
+    path: "/app",
+    element: <App />
   }
 ])
 
