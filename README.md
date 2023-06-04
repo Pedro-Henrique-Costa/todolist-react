@@ -6,6 +6,7 @@ Projeto com o objetivo de implementar conceitos de react em prática.
 
 ### Deploy:
 - Netlify: https://profound-toffee-90eef5.netlify.app/
+- Render: https://to-do-list-json-server-679q.onrender.com/tasks
 
 ### Documentação das Feramentas Utilizadas:
 - React: https://react.dev/
