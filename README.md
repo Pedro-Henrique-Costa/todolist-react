@@ -16,3 +16,4 @@ Projeto com o objetivo de implementar conceitos de react em prática.
 - Json Server: https://github.com/typicode/json-server
 - uuid: https://github.com/uuidjs/uuid
 - Vite: https://vitejs.dev/
+- Json-Server-deploy: https://github.com/ikramdeveloper/json-server-deploy
